@@ -1,1 +1,2 @@
 <h2> Welcome students in Machine Learning workshop</h2>
+<h2> Today wr are learning git</h2>
